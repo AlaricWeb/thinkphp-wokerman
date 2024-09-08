@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  thinkphpwokerman:
-    image: thinkphpwokerman
-    build:
-      context: .
-      dockerfile: ./Dockerfile
